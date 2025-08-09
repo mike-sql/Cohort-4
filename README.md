@@ -3,6 +3,6 @@
 #### I am a happy Nigerian that loves to clean data
 
 WHat tools do i use? 
-Excel
-Tableau
-SQQL
+1. Excel
+2. Tableau
+3. SQL
